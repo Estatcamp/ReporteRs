@@ -98,8 +98,8 @@ require(rJava)
 ### From Github
 
 ``` r
-devtools::install_github('davidgohel/ReporteRsjars')
-devtools::install_github('davidgohel/ReporteRs')
+devtools::install_github('Estatcamp/ReporteRsjars')
+devtools::install_github('Estatcamp/ReporteRs')
 ```
 
 ## Ressources
@@ -120,7 +120,7 @@ read them and answer when possible.
 ### Bug reports
 
 When you file a [bug
-report](https://github.com/davidgohel/ReporteRs/issues), please spend
+report](https://github.com/Estatcamp/ReporteRs/issues), please spend
 some time making it easy for me to follow and reproduce. The more time
 you spend on making the bug report coherent, the more time I can
 dedicate to investigate the bug as opposed to the bug report.

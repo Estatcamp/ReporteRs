@@ -26,7 +26,7 @@ install.packages("ReporteRs")
 Install developement version of ReporteRs from Github with the following command:
 
 ```{r eval=FALSE}
-devtools::install_github("davidgohel/ReporteRs")
+devtools::install_github("Estatcamp/ReporteRs")
 ```
 
 ### Dependancies
@@ -87,7 +87,7 @@ If you are on a Windows machine and (for any reason) you can only have one java 
 
 ```{r eval=FALSE}
 install.packages("ReporteRs", INSTALL_opts = "--no-multiarch")
-install_github("davidgohel/ReporteRs", args = "--no-multiarch")
+install_github("Estatcamp/ReporteRs", args = "--no-multiarch")
 ```
 
 Some solutions on Stackoverflow involve to set environment variable `JAVA_HOME`. I never had to use that but it seems a valid solution for some configurations. 
@@ -117,7 +117,7 @@ Then from R, run:
 ```{r eval=FALSE}
 devtools::install_github("davidgohel/gdtools") 
 devtools::install_github("davidgohel/rvg")
-devtools::install_github("davidgohel/ReporteRs")
+devtools::install_github("Estatcamp/ReporteRs")
 ```
 
 

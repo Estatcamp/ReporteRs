@@ -32,5 +32,5 @@ Suggests:
     rmarkdown
 SystemRequirements: java (>= 6)
 URL: https://davidgohel.github.io/ReporteRs
-BugReports: https://github.com/davidgohel/ReporteRs/issues
+BugReports: https://github.com/Estatcamp/ReporteRs/issues
 RoxygenNote: 6.0.1.9000

@@ -210,7 +210,7 @@ DEBUG
 
 * propagation of shape layout styles to the presentation slides with
   pptx object is now working if argument par.properties is missing
-  in the call of addParagraph. http://github.com/davidgohel/ReporteRs/issues/48
+  in the call of addParagraph. http://github.com/Estatcamp/ReporteRs/issues/48
 
 
 ReporteRs 0.7.5
@@ -225,7 +225,7 @@ DEBUG
 ------------------------------------------------------------------
 
 * debug PowerPoint slide replacement
-  See https://github.com/davidgohel/ReporteRs/issues/66
+  See https://github.com/Estatcamp/ReporteRs/issues/66
 
 
 ReporteRs 0.7.4
@@ -245,7 +245,7 @@ DEBUG
 ------------------------------------------------------------------
 
 * debug text insertion in header/footer row with merged cells.
-  See http://github.com/davidgohel/ReporteRs/issues/58
+  See http://github.com/Estatcamp/ReporteRs/issues/58
 
 ReporteRs 0.7.3
 ==================================================================
@@ -274,16 +274,16 @@ ReporteRs 0.7.1
 DEBUG
 ------------------------------------------------------------------
 
-* markdown Title illegitimately detected. See [github](http://github.com/davidgohel/ReporteRs/issues/46).
+* markdown Title illegitimately detected. See [github](http://github.com/Estatcamp/ReporteRs/issues/46).
 
 * PDF issues: table cell padding is now rendered correctly when docx is saved to pdf.
 
 ENHANCEMENT
 ------------------------------------------------------------------
 
-* embed external docx file into docx object with addDocument function (suggested by Olivier Barriere). See [github] (http://github.com/davidgohel/ReporteRs/issues/49).
+* embed external docx file into docx object with addDocument function (suggested by Olivier Barriere). See [github] (http://github.com/Estatcamp/ReporteRs/issues/49).
 
-* allow comma and few other symbols in layout names for Libre Office users. See [github] (http://github.com/davidgohel/ReporteRs/issues/45).
+* allow comma and few other symbols in layout names for Libre Office users. See [github] (http://github.com/Estatcamp/ReporteRs/issues/45).
 
 * id of the title can be specified with addTitle.bsdoc
 
@@ -499,7 +499,7 @@ BUG FIXES
 ------------------------------------------------------------------
 * parProperties paddings were not translated in EMUs as expected
   by Office. docx and pptx were concerned but not html. (reported
-  here http://github.com/davidgohel/ReporteRs/issues/10)
+  here http://github.com/Estatcamp/ReporteRs/issues/10)
 
 ENHANCEMENT
 ------------------------------------------------------------------
